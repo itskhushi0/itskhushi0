@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Khushi Joshi  
+##### Hi, I'm Khushi 👋🏽  
 **Data Analyst | M.S. in Economic Data Analytics**
 
 I transform data into actionable business insights through structured analysis, forecasting, and performance reporting. My work focuses on solving real business problems using data-driven strategy and clear communication.
