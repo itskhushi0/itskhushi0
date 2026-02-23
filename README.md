@@ -14,36 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I’m Khushi 👋  
+### Khushi Joshi  
 **Data Analyst | M.S. in Economic Data Analytics**
 
-I turn data into clear, actionable business insights that support strategic decision-making.  
-With a strong foundation in economics, analytics, and forecasting, I focus on delivering analysis that drives measurable impact.
+I transform data into actionable business insights through structured analysis, forecasting, and performance reporting. My work focuses on solving real business problems using data-driven strategy and clear communication.
 
+**Core Strengths:**  
+SQL • Python • R • Business Analytics • Forecasting • Dashboard Development • Executive Reporting  
+
+**Tools:**  
+MySQL • BigQuery • Tableau • Power BI • Excel • Git  
+
+**Selected Work:**  
+Business Analytics • Economic Forecasting • End-to-End Data Projects  
+
+**Connect:**  
+LinkedIn: https://www.linkedin.com/in/khushi0/  
 ---
 
-**🚀 What I Do**
-
-- Query and analyze data using Python, R, and SQL  
-- Conduct business-focused ad-hoc analysis  
-- Build executive dashboards and performance reports  
-- Develop forecasting and regression models  
-- Translate complex data into clear, strategic recommendations  
-
----
-
-**🛠 Tools & Technologies**
-
-- **Languages:** SQL, Python, R, Stata  
-- **Visualization:** Tableau, Power BI, Excel  
-- **Other:** Git, GitHub  
-
----
-
-**📊 Projects**
-
----
-
-**🤝 Connect With Me**
-
-- **LinkedIn:** https://www.linkedin.com/in/khushi0/  
