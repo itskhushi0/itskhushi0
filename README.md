@@ -14,30 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Hello, I'm Khushi 👋  
+Hello, I'm Khushi 👋  
 
 Data Analyst specializing in turning structured data into actionable business insights for strategic decision-making.  
 
-****What I Do:****  
-- Query/ analyze data using Excel, SQL, R, and Python  
+**What I Do:**  
+- Query/analyze data using Excel, SQL, R, and Python  
 - Generate reports and perform ad-hoc business analysis  
-- Build dashboards in Excel, Tableau, and Power BI
+- Build dashboards in Excel, Tableau, and Power BI  
 - Develop forecasting and regression models  
----
-
-##### 📚 Projects  
 
 ---
 
-##### 🛠️ Tools  
-- ****Languages:**** SQL, Python, R  
-- ****Databases:**** Google BigQuery, PostgreSQL, MySQL  
-- ****Visualization:**** Tableau, Power BI, Excel  
-- ****Other:**** Git, GitHub  
+**📚 Projects**  
+Showcasing work in business analytics, forecasting, and end-to-end data projects.  
 
 ---
-##### 👋 Connect with Me  
 
-- ****LinkedIn:**** https://www.linkedin.com/in/khushi0/
+**🛠️ Tools**  
+- **Languages:** SQL, Python, R, Stata  
+- **Visualization:** Tableau, Power BI, Excel  
+- **Other:** Git, GitHub  
 
+---
 
+**👋 Connect with Me**  
+- **LinkedIn:** https://www.linkedin.com/in/khushi0/
