@@ -25,10 +25,8 @@ SQL • Python • R • Business Analytics • Forecasting • Dashboard Develo
 **Tools:**  
 MySQL • BigQuery • Tableau • Power BI • Excel • Git  
 
-**Selected Work:**  
+**Projects:**  
 Business Analytics • Economic Forecasting • End-to-End Data Projects  
 
-**Connect:**  
-### LinkedIn: https://www.linkedin.com/in/khushi0/  
----
+
 
