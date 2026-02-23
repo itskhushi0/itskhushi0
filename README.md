@@ -29,6 +29,6 @@ MySQL • BigQuery • Tableau • Power BI • Excel • Git
 Business Analytics • Economic Forecasting • End-to-End Data Projects  
 
 **Connect:**  
-LinkedIn: https://www.linkedin.com/in/khushi0/  
+### LinkedIn: https://www.linkedin.com/in/khushi0/  
 ---
 
