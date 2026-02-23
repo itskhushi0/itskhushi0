@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **itskhushi0/itskhushi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 # Hi, I’m Khushi 👋  
 
-## **Data Analyst | M.S. in Economic Data Analytics**
+# **Data Analyst | M.S. in Economic Data Analytics**
 
 I turn data into clear, actionable business insights that support strategic decision-making.  
 With a strong foundation in economics, analytics, and forecasting, I focus on delivering analysis that drives measurable impact.
 
 ---
 
-## 🚀 **What I Do**
+# 🚀 **What I Do**
 
 - Query and analyze data using Python, R, and SQL  
 - Conduct business-focused ad-hoc analysis 
@@ -33,7 +33,7 @@ With a strong foundation in economics, analytics, and forecasting, I focus on de
 
 ---
 
-## 🛠️ **Tools & Technologies**
+# 🛠️ **Tools & Technologies**
 
 - **Languages:** SQL, Python, R, Stata   
 - **Visualization:** Tableau, PowerBI, Excel  
@@ -41,11 +41,11 @@ With a strong foundation in economics, analytics, and forecasting, I focus on de
 
 ---
 
-## 📊 **Projects**
+# 📊 **Projects**
 
 
 ---
 
-## 🤝 **Connect With Me**
+# 🤝 **Connect With Me**
 
 - **LinkedIn:** https://www.linkedin.com/in/khushi0/  
