@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Data Analyst specializing in turning structured data into actionable business insights for strategic decision-making.  
 
-**What I Do:**  
+****What I Do:****  
 - Query/ analyze data using Excel, SQL, R, and Python  
 - Generate reports and perform ad-hoc business analysis  
 - Build dashboards in Excel, Tableau, and Power BI
@@ -26,19 +26,18 @@ Data Analyst specializing in turning structured data into actionable business in
 ---
 
 ##### 📚 Projects  
-Showcasing work in **business analytics, forecasting, and end-to-end data projects**.  
 
 ---
 
 ##### 🛠️ Tools  
-- **Languages:** SQL, Python, R  
-- **Databases:** Google BigQuery, PostgreSQL, MySQL  
-- **Visualization:** Tableau, Power BI, Excel  
-- **Other:** Git, GitHub  
+- ****Languages:**** SQL, Python, R  
+- ****Databases:**** Google BigQuery, PostgreSQL, MySQL  
+- ****Visualization:**** Tableau, Power BI, Excel  
+- ****Other:**** Git, GitHub  
 
 ---
 ##### 👋 Connect with Me  
 
-- **LinkedIn:** https://www.linkedin.com/in/khushi0/
+- ****LinkedIn:**** https://www.linkedin.com/in/khushi0/
 
 
