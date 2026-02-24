@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Khushi 👋  
+Hello, I'm Khushi👋  
 
 Data Analyst specializing in turning structured data into actionable business insights for strategic decision-making.  
 
