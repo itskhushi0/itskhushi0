@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello, I'm Khushi👋  
 
-Data Analyst specializing in turning structured data into actionable business insights for strategic decision-making.  
+Data Analyst specializing in turning data into actionable insights for strategic decision-making.  
 
 **What I Do:**  
 - Query/analyze data using Excel, SQL, R, and Python  
